@@ -6,5 +6,3 @@
 @import 'tailwindcss/utilities';
 @import './tailwind/utilities.css';
 @import './app.css';
-
-@config "../tailwind-config.ts";

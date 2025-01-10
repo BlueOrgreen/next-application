@@ -1,5 +1,6 @@
 public
 node_modules
+src/database/migrations
 pnpm-lock.yaml
 package-lock.json
 docker
@@ -17,6 +18,9 @@ yarn-error.log
 .eslintcache
 *.lock
 *.png
+*.jpg
+*.jpeg
 *.eot
 *.ttf
 *.woff
+*.sql
